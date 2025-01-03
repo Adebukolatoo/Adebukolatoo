@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adebukolatoo
+- 👋 Hi
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning CompTIA security+
 - 💞️ I’m looking to collaborate on securing networks
